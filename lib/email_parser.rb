@@ -13,8 +13,7 @@ class EmailParser
 		@emails = @emails.gsub(/[\s,]/ ," ").split
   end
 	
-	
-end
+
 
   
   
